@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/RS01SUM1-LJ01B-09-PRESTB102-streamed-prest_real_time
 data_stream: RS01SUM1-LJ01B-09-PRESTB102-streamed-prest_real_time
 end_date: '2020-08-18T01:23:18.806Z'
-last_updated: '2021-10-06T01:15:10.986170Z'
+last_updated: '2021-10-06T01:33:15.537559'
 start_date: '2014-09-18T13:30:30.000Z'
-status: pending
+status: success
